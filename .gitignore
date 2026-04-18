@@ -1,0 +1,7 @@
+models/
+manifests/
+__pycache__/
+*.pyc
+.env
+*.gguf
+*_hf/
